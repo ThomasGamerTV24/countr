@@ -1,0 +1,9 @@
+{
+  "token": "Njk2NTcwNjE4NzAyOTg3MjY0.XoqqBg.iQkj3ellOJ0ZxqoLBa3nZbfI_zw",
+  "database_uri": "mongodb://admin:admin@countrliberty-shard-00-00-elslu.mongodb.net:27017,countrliberty-shard-00-01-elslu.mongodb.net:27017,countrliberty-shard-00-02-elslu.mongodb.net:27017/test?ssl=true&replicaSet=CountrLiberty-shard-0&authSource=admin&retryWrites=true&w=majority",
+  "admins": [ "472564323047440394" ],
+  "prefix": "c!",
+  "mainGuild": "678869574371901480",
+  "color": 12404274,
+  "postToWebhookEveryWeek": null
+}
